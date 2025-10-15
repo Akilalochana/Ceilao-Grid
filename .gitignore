@@ -23,3 +23,5 @@
 /cg_marketing_website/.env.local
 /cg_marketing_website/.env.development
 /cg_marketing_website/.env.production
+config.bat
+node_modules
