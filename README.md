@@ -1,4 +1,4 @@
-![photo_2025-05-18_17-17-05 (2)](https://github.com/user-attachments/assets/bce8ff28-625d-42e4-9fb3-8c1f1d73eee9)# 🌱 CeilaoGrid - Smart Urban Farming Solution
+# 🌱 CeilaoGrid - Smart Urban Farming Solution
 
 <div align="center">
 
@@ -85,14 +85,17 @@ Experience CeilaoGrid in action! Check out our comprehensive demo video showcasi
 
 | Home Screen | AR Measurement | Plant Recommendations |
 |-------------|----------------|----------------------|
-| ![![photo_2025-05-18_17-17-05](https://github.com/user-attachments/assets/602624a1-7bf0-4520-a0dc-b420d843e27b)
-](#) | ![photo_2025-05-18_17-17-06](https://github.com/user-attachments/assets/0c05e9bc-eecc-4f4d-88a5-30037d1fa489)
+|![photo_2025-05-18_17-17-05](https://github.com/user-attachments/assets/602624a1-7bf0-4520-a0dc-b420d843e27b)
+] | ![photo_2025-05-18_17-17-06](https://github.com/user-attachments/assets/0c05e9bc-eecc-4f4d-88a5-30037d1fa489)
  | ![photo_2025-05-18_17-31-25](https://github.com/user-attachments/assets/4c4db37a-725f-4813-81e7-8a0deddd9214)
-(#) |
+ |
 
 | AI Chatbot | Weather Forecast | Vegetable Details |
 |------------|------------------|-------------------|
-| ![Chat](#) | ![Weather](#) | ![Details](#) |
+| ![photo_2025-05-18_17-17-05 (2)](https://github.com/user-attachments/assets/a5fa5254-7d71-4388-be47-405d3bab5083)
+ |![photo_2025-05-18_17-17-07](https://github.com/user-attachments/assets/c5498db6-fb7c-4232-89ba-6dab620da227)
+ | ![photo_2025-05-18_17-31-39](https://github.com/user-attachments/assets/884c659f-e2a0-4dd8-affa-2eba7de17781)
+|
 
 *Screenshots coming soon - Add your images to the repository*
 
@@ -216,7 +219,9 @@ CeilaoGrid won first place at the prestigious **API Cutting Edge 2025** competit
 
 | Competition Booth | Award Ceremony |
 |-------------------|----------------|
-| ![Stall Image](#) | ![Winner Image](#) |
+|![photo_2025-06-24_21-50-40](https://github.com/user-attachments/assets/d9469ba2-c92d-4712-a651-c793c4735366)
+ | ![photo_2025-06-23_22-27-00](https://github.com/user-attachments/assets/9e78955f-b533-45fa-a127-35b3f0c76dc5)
+ |
 
 *Our team showcasing CeilaoGrid at API Cutting Edge 2025*
 
