@@ -198,19 +198,14 @@ Want to try CeilaoGrid without building from source?
 
 ## 🏆 Recognition & Achievements
 
-### API Cutting Edge 2025 - 1st Place Winner 🥇
-
+### Cutting Edge 2025 - 1st Place Winner 🥇
 CeilaoGrid won first place at the prestigious **API Cutting Edge 2025** competition, competing against innovative projects from across the industry.
 
-<div align="center">
-
 | Competition Booth | Award Ceremony |
-|-------------------|----------------|
-|![photo_2025-06-24_21-50-40](https://github.com/user-attachments/assets/d9469ba2-c92d-4712-a651-c793c4735366)
- | ![photo_2025-06-23_22-27-00](https://github.com/user-attachments/assets/9e78955f-b533-45fa-a127-35b3f0c76dc5)
- |
+|:---:|:---:|
+| ![](https://github.com/user-attachments/assets/d9469ba2-c92d-4712-a651-c793c4735366) | ![](https://github.com/user-attachments/assets/9e78955f-b533-45fa-a127-35b3f0c76dc5) |
 
-*Our team showcasing CeilaoGrid at API Cutting Edge 2025*
+*Our team showcasing CeilaoGrid at Cutting Edge 2025*
 
 </div>
 
