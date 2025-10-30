@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CeilaoGrid Logo](https://github.com/user-attachments/assets/214c403b-79e4-49dd-91c5-0433ea5e23be)
+<img src="https://github.com/user-attachments/assets/214c403b-79e4-49dd-91c5-0433ea5e23be" alt="CeilaoGrid Logo" width="200"/>
 
 ### 🏆 Winner - API Cutting Edge 2025 Competition (1st Place)
 
