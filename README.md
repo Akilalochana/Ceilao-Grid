@@ -81,18 +81,13 @@ Experience CeilaoGrid in action! Check out our comprehensive demo video showcasi
 
 ### 📱 App Screenshots
 
-<div align="center">
-
 | Home Screen | AR Measurement | Plant Recommendations |
-|-------------|----------------|----------------------|
-| ![Home Screen](https://github.com/user-attachments/assets/602624a1-7bf0-4520-a0dc-b420d843e27b) | ![AR Measurement](https://github.com/user-attachments/assets/0c05e9bc-eecc-4f4d-88a5-30037d1fa489) | ![Plant Recommendations](https://github.com/user-attachments/assets/4c4db37a-725f-4813-81e7-8a0deddd9214) |
+|:---:|:---:|:---:|
+| ![](https://github.com/user-attachments/assets/602624a1-7bf0-4520-a0dc-b420d843e27b) | ![](https://github.com/user-attachments/assets/0c05e9bc-eecc-4f4d-88a5-30037d1fa489) | ![](https://github.com/user-attachments/assets/4c4db37a-725f-4813-81e7-8a0deddd9214) |
 
 | AI Chatbot | Weather Forecast | Vegetable Details |
-|------------|------------------|-------------------|
-| ![AI Chatbot](https://github.com/user-attachments/assets/a5fa5254-7d71-4388-be47-405d3bab5083) | ![Weather Forecast](https://github.com/user-attachments/assets/c5498db6-fb7c-4232-89ba-6dab620da227) | ![Vegetable Details](https://github.com/user-attachments/assets/884c659f-e2a0-4dd8-affa-2eba7de17781) |
-
-</div>
-
+|:---:|:---:|:---:|
+| ![](https://github.com/user-attachments/assets/a5fa5254-7d71-4388-be47-405d3bab5083) | ![](https://github.com/user-attachments/assets/c5498db6-fb7c-4232-89ba-6dab620da227) | ![](https://github.com/user-attachments/assets/884c659f-e2a0-4dd8-affa-2eba7de17781) |
 ---
 
 ## 🛠️ Technology Stack
