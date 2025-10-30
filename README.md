@@ -220,8 +220,8 @@ Meet the talented team behind CeilaoGrid:
 
 <div align="center">
 
-| Name | Role | GitHub |
-|------|------|--------|
+| Name | Role |
+|------|------|
 | **Promodi Silva** | QA Engineer & Frontend Dev | 
 | **Akila Lochana** | Full Stack Developer & AI Integration | 
 | **Ravindu Sandumith** | Backend Developer &  AI Integration | 
