@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/214c403b-79e4-49dd-91c5-0433ea5e23be" alt="CeilaoGrid Logo" width="200"/>
 
-### 🏆 Winner - API Cutting Edge 2025 Competition (1st Place)
+### 🏆 Winner - Cutting Edge 2025 Competition (1st Place)
 
 [![Website](https://img.shields.io/badge/Website-ceilaogrid.live-green?style=for-the-badge)](https://www.ceilaogrid.live/)
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/WPl7Ob-SBwA?si=dHaYJ2rQex5x-QSc)
