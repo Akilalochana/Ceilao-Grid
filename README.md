@@ -85,19 +85,11 @@ Experience CeilaoGrid in action! Check out our comprehensive demo video showcasi
 
 | Home Screen | AR Measurement | Plant Recommendations |
 |-------------|----------------|----------------------|
-|![photo_2025-05-18_17-17-05](https://github.com/user-attachments/assets/602624a1-7bf0-4520-a0dc-b420d843e27b)
-] | ![photo_2025-05-18_17-17-06](https://github.com/user-attachments/assets/0c05e9bc-eecc-4f4d-88a5-30037d1fa489)
- | ![photo_2025-05-18_17-31-25](https://github.com/user-attachments/assets/4c4db37a-725f-4813-81e7-8a0deddd9214)
- |
+| ![Home Screen](https://github.com/user-attachments/assets/602624a1-7bf0-4520-a0dc-b420d843e27b) | ![AR Measurement](https://github.com/user-attachments/assets/0c05e9bc-eecc-4f4d-88a5-30037d1fa489) | ![Plant Recommendations](https://github.com/user-attachments/assets/4c4db37a-725f-4813-81e7-8a0deddd9214) |
 
 | AI Chatbot | Weather Forecast | Vegetable Details |
 |------------|------------------|-------------------|
-| ![photo_2025-05-18_17-17-05 (2)](https://github.com/user-attachments/assets/a5fa5254-7d71-4388-be47-405d3bab5083)
- |![photo_2025-05-18_17-17-07](https://github.com/user-attachments/assets/c5498db6-fb7c-4232-89ba-6dab620da227)
- | ![photo_2025-05-18_17-31-39](https://github.com/user-attachments/assets/884c659f-e2a0-4dd8-affa-2eba7de17781)
-|
-
-*Screenshots coming soon - Add your images to the repository*
+| ![AI Chatbot](https://github.com/user-attachments/assets/a5fa5254-7d71-4388-be47-405d3bab5083) | ![Weather Forecast](https://github.com/user-attachments/assets/c5498db6-fb7c-4232-89ba-6dab620da227) | ![Vegetable Details](https://github.com/user-attachments/assets/884c659f-e2a0-4dd8-affa-2eba7de17781) |
 
 </div>
 
