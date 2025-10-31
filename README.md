@@ -188,7 +188,7 @@ Experience CeilaoGrid in action! Check out our comprehensive demo video showcasi
 
 Want to try CeilaoGrid without building from source?
 
-**Email us at:** [team@ceilaogrid.live](mailto:team@ceilaogrid.live)
+**Email us at:** [team@ceilaogrid.live](mailto:ceilaogrid@gmail.com)
 
 > 📧 Send us an email with "CeilaoGrid APK Request" in the subject line, and we'll send you the latest APK build!
 
@@ -345,7 +345,7 @@ This project is currently under development. License information will be added s
 ## 📞 Contact & Support
 
 - 🌐 **Website:** [www.ceilaogrid.live](https://www.ceilaogrid.live/)
-- 📧 **Email:** team@ceilaogrid.live
+- 📧 **Email:** ceilaogrid@gmail.com
 - 📺 **YouTube:** [CeilaoGrid Channel](https://youtu.be/WPl7Ob-SBwA?si=dHaYJ2rQex5x-QSc)
 - 📝 **Medium:** [@akilalochana7](https://medium.com/@akilalochana7)
 - 🐙 **GitHub:** [CeilaoGrid Repository](#)
